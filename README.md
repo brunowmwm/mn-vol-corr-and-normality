@@ -1,2 +1,2 @@
-# mean-vol-corr and normality calculator
+# Mean, Volatily and COrrelation Calculator and Normality tester
 
