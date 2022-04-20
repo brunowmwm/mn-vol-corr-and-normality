@@ -1,4 +1,4 @@
-# Mean, Volatily and COrrelation Calculator and Normality tester
+# Mean, Volatily and Correlation Calculator and Normality tester
 
 ![image](https://user-images.githubusercontent.com/76531495/164250154-9635f100-344e-47dc-ac08-79924cf1ffa2.png)
 
