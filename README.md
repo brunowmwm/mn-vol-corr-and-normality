@@ -37,6 +37,4 @@ A: I finished the code, but it looks pretty bad. I have to correct this.
 
 1 - I want to publish some of the results in a PDF File, the visualization of the results should be easy, followed by the created plots.
 
-2 - Finish the code.
-
 3 - Set it as my first portfolio project in LinkedIn.
