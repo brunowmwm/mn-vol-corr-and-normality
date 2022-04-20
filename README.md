@@ -17,7 +17,7 @@ This is my first published code, it might be a bit grumpy and innefective but an
 ## Functionalities
 
 This code will help you to:
-- Visualize the rolling mean of the log returns (252 d), rolling realized volatility (252 d) and the correlation between these two (252 d).
+- Visualize the rolling average of the log returns (252 d), rolling realized volatility (252 d) and the correlation between these two (252 d).
 - Calculate the daily and annual returns and standard deviations of the log returns.
 - Test the normality of the sample, skewness and kurtosis.
 
