@@ -32,9 +32,4 @@ B: As the functions were learned, i started to code a project using the Derivati
 ### Day 2 - 2022/04/20
 
 A: I finished the code, but it looks pretty bad. I have to correct this.
-
-## To do:
-
-1 - I want to publish some of the results in a PDF File, the visualization of the results should be easy, followed by the created plots.
-
-3 - Set it as my first portfolio project in LinkedIn.
+B: I somewhat cleaned the code, did the LinkedIn post and the results PDF.
